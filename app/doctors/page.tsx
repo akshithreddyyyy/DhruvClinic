@@ -217,7 +217,7 @@ export default function Doctors() {
               <div className="flex justify-center">
                 <div className="relative">
                   <img
-                    src="https://cdn.corenexis.com/file?8185512168.jpg"
+                    src="/Uncle_hero.jpg"
                     alt="Dr. E N Purushothama Reddy"
                     className="rounded-2xl shadow-xl object-cover w-96 h-[500px]"
                   />
